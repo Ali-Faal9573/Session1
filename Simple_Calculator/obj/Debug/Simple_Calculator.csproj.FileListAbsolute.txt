@@ -1,0 +1,14 @@
+C:\Users\Dragon9573\Documents\Learn\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe.config
+C:\Users\Dragon9573\Documents\Learn\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe
+C:\Users\Dragon9573\Documents\Learn\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.pdb
+C:\Users\Dragon9573\Documents\Learn\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.AssemblyReference.cache
+C:\Users\Dragon9573\Documents\Learn\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dragon9573\Documents\Learn\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.exe
+C:\Users\Dragon9573\Documents\Learn\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.pdb
+D:\Project\Dotin Class\01\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe.config
+D:\Project\Dotin Class\01\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.exe
+D:\Project\Dotin Class\01\Simple_Calculator\Simple_Calculator\bin\Debug\Simple_Calculator.pdb
+D:\Project\Dotin Class\01\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.AssemblyReference.cache
+D:\Project\Dotin Class\01\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.csproj.CoreCompileInputs.cache
+D:\Project\Dotin Class\01\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.exe
+D:\Project\Dotin Class\01\Simple_Calculator\Simple_Calculator\obj\Debug\Simple_Calculator.pdb
